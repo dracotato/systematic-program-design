@@ -1,0 +1,2 @@
+# ignore drracket cache files
+*.rkt~
